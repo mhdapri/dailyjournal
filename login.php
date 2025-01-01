@@ -68,7 +68,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="col-lg-4 col-md-6">
                 <div class="card shadow-sm">
                     <div class="card-body ">
-                        <h2 class="card-title text-center mb-4">Login</h2>
+                        <h2 class="card-title text-center mb-4">welcome to my dailyjournal</h2>
                         <!-- form login -->
                         <form method="post" autocomplete="off">
                             <div class="mb-3">
